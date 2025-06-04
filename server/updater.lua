@@ -1,5 +1,5 @@
 local current_version = GetResourceMetadata(GetCurrentResourceName(), 'version', 0) or "1.0.0"
-local GITHUB_REPO = "yourusername/lofi_discord"  -- CHANGE TO YOUR REPO
+local GITHUB_REPO = "yourusername/lofi_discord"
 
 -- Color codes embedded directly
 local function Log(message, level)
